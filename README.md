@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rjsander19
+- 👀 I’m interested in coding, music, and animals
+- 🌱 I’m currently learning JavaScript, React, Django, NodeJs, and open to learning just about anything
+- 💞️ I’m looking to collaborate on projects that will expand my skillbase
+- 📫 You can reach me via email at rjsander19@gmail.com 
